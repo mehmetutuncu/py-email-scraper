@@ -9,4 +9,19 @@ Its difference from other email finders is its speed and resource consumption :)
 * python 3.12
 
 ### installment
-```pip install -r requirements.txt```
+````shell
+pip install -r requirements.txt
+````
+
+### usage
+````shell
+python manage.py https://example.com
+````
+
+### output
+````shell
+Extracted Email Count: 0
+Visited Url Count: 43   
+Runtime: 2.01 sec       
+Extracted Email List: []
+````
