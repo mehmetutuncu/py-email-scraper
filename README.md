@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 ### usage
 ````shell
-python manage.py https://example.com
+python resources/main.py https://example.com
 ````
 
 ### output
